@@ -1,4 +1,4 @@
-📋 Project Overview
+📋**Project Overview**
 This project focuses on performing data analysis on a large customer dataset using PySpark to demonstrate the capability of processing big data efficiently.
 The main goal was to derive meaningful insights from the dataset, analyze customer behaviors, and demonstrate scalability using big data tools.
 
