@@ -5,7 +5,7 @@ The main goal was to derive meaningful insights from the dataset, analyze custom
 
 ⚙️**Technologies Used**
 
- **Python** 
+• **Python** 
 
 • **Apache PySpark**  (for big data processing and scalable analytics)
 
