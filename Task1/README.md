@@ -2,70 +2,72 @@
 This project focuses on performing data analysis on a large customer dataset using PySpark to demonstrate the capability of processing big data efficiently.
 The main goal was to derive meaningful insights from the dataset, analyze customer behaviors, and demonstrate scalability using big data tools.
 
-🛠️ Technologies Used
-Python 
+⚙️**Technologies Used**
 
-Apache PySpark  (for big data processing and scalable analytics)
+• **Python** 
 
-Pandas (for small data handling after initial analysis)
+• **Apache PySpark**  (for big data processing and scalable analytics)
 
-Matplotlib & Seaborn 📊 (for data visualization)
+• **Pandas** (for small data handling after initial analysis)
 
-Google Colab (for cloud-based development and testing)
+• **Matplotlib & Seaborn** 📊 (for data visualization)
 
-📈 Steps and Work Done
-Data Loading
-Loaded a large CSV file into PySpark DataFrame with automatic schema inference.
+• **Google Colab** (for cloud-based development and testing)
 
-Data Exploration
+📈**Steps and Work Done**
+• **Data Loading**
 
-Printed schema, counted records, checked for nulls.
+  Loaded a large CSV file into PySpark DataFrame with automatic schema inference.
 
-Summarized numerical statistics.
+• **Data Exploration**
 
-Extracted column names and their types.
+ • Printed schema, counted records, checked for nulls.
 
-Descriptive Analysis
+ • Summarized numerical statistics.
 
-Top 5 customers by Balance and Estimated Salary.
+ • Extracted column names and their types.
 
-Average Credit Score and Average Salary.
+• **Descriptive Analysis**
 
-Geographical Distribution of customers (Spain, France, Germany).
+ • Top 5 customers by Balance and Estimated Salary.
 
-Gender Distribution among customers.
+ • Average Credit Score and Average Salary.
 
-Churn Rate Analysis (Exited vs. Active customers).
+ • Geographical Distribution of customers (Spain, France, Germany).
 
-Advanced Insights
+ • Gender Distribution among customers.
 
-Correlation Analysis between numerical features.
+ • Churn Rate Analysis (Exited vs. Active customers).
 
-Geography vs Churn analysis.
+• **Advanced Insights**
 
-Gender vs Churn behavior study.
+ • Correlation Analysis between numerical features.
 
-Bucketization:
+ • Geography vs Churn analysis.
 
-Age groups
+ • Gender vs Churn behavior study.
 
-Salary groups
+ • Bucketization:
 
-Retention Strategy Insights for high-value customers.
+    • Age groups
 
-Visualization
+    • Salary groups
 
-Histograms, Countplots, Scatterplots.
+ • Retention Strategy Insights for high-value customers.
 
-Churn vs Geography, Churn vs Gender.
+• **Visualization**
 
-Distribution of Salaries, Age, and Balances.
+ • Histograms, Countplots, Scatterplots.
 
-🔥 Key Takeaways
-PySpark can easily handle large datasets and perform complex operations efficiently.
+ • Churn vs Geography, Churn vs Gender.
 
-Found that certain geographies and genders had higher churn rates.
+ • Distribution of Salaries, Age, and Balances.
 
-Identified high-value customers who were more likely to churn, providing insights for retention strategies.
+🔥 **Key Takeaways**
+• PySpark can easily handle large datasets and perform complex operations efficiently.
 
-Created easy-to-understand visualizations to support the derived insights.
+• Found that certain geographies and genders had higher churn rates.
+
+• Identified high-value customers who were more likely to churn, providing insights for retention strategies.
+
+• Created easy-to-understand visualizations to support the derived insights.
