@@ -1,10 +1,11 @@
 📋**Project Overview**
+
 This project focuses on performing data analysis on a large customer dataset using PySpark to demonstrate the capability of processing big data efficiently.
 The main goal was to derive meaningful insights from the dataset, analyze customer behaviors, and demonstrate scalability using big data tools.
 
 ⚙️**Technologies Used**
 
-• **Python** 
+ **Python** 
 
 • **Apache PySpark**  (for big data processing and scalable analytics)
 
@@ -15,11 +16,11 @@ The main goal was to derive meaningful insights from the dataset, analyze custom
 • **Google Colab** (for cloud-based development and testing)
 
 📈**Steps and Work Done**
-• **Data Loading**
+ **Data Loading**
 
   Loaded a large CSV file into PySpark DataFrame with automatic schema inference.
 
-• **Data Exploration**
+ **Data Exploration**
 
  • Printed schema, counted records, checked for nulls.
 
@@ -27,7 +28,7 @@ The main goal was to derive meaningful insights from the dataset, analyze custom
 
  • Extracted column names and their types.
 
-• **Descriptive Analysis**
+ **Descriptive Analysis**
 
  • Top 5 customers by Balance and Estimated Salary.
 
@@ -39,7 +40,7 @@ The main goal was to derive meaningful insights from the dataset, analyze custom
 
  • Churn Rate Analysis (Exited vs. Active customers).
 
-• **Advanced Insights**
+ **Advanced Insights**
 
  • Correlation Analysis between numerical features.
 
@@ -47,15 +48,15 @@ The main goal was to derive meaningful insights from the dataset, analyze custom
 
  • Gender vs Churn behavior study.
 
- • Bucketization:
+  **Bucketization:**
 
-    • Age groups
+ • Age groups
 
-    • Salary groups
+ • Salary groups
 
  • Retention Strategy Insights for high-value customers.
 
-• **Visualization**
+ **Visualization**
 
  • Histograms, Countplots, Scatterplots.
 
