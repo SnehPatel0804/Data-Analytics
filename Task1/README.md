@@ -22,54 +22,54 @@ The main goal was to derive meaningful insights from the dataset, analyze custom
 
    **Data Exploration**
   
-    • Printed schema, counted records, checked for nulls.
+   • Printed schema, counted records, checked for nulls.
     
-    • Summarized numerical statistics.
+   • Summarized numerical statistics.
     
-    • Extracted column names and their types.
+   • Extracted column names and their types.
     
    **Descriptive Analysis**
   
-    • Top 5 customers by Balance and Estimated Salary.
+   • Top 5 customers by Balance and Estimated Salary.
     
-    • Average Credit Score and Average Salary.
+   • Average Credit Score and Average Salary.
     
-    • Geographical Distribution of customers (Spain, France, Germany).
+   • Geographical Distribution of customers (Spain, France, Germany).
     
-    • Gender Distribution among customers.
+   • Gender Distribution among customers.
     
-    • Churn Rate Analysis (Exited vs. Active customers).
+   • Churn Rate Analysis (Exited vs. Active customers).
 
    **Advanced Insights**
   
-    • Correlation Analysis between numerical features.
+   • Correlation Analysis between numerical features.
     
-    • Geography vs Churn analysis.
+   • Geography vs Churn analysis.
     
-    • Gender vs Churn behavior study.
+   • Gender vs Churn behavior study.
   
-    • Bucketization:
+   • Bucketization:
   
      • Age groups
         
      • Salary groups
     
-    • Retention Strategy Insights for high-value customers.
+   • Retention Strategy Insights for high-value customers.
 
    **Visualization**
   
-    • Histograms, Countplots, Scatterplots.
+   • Histograms, Countplots, Scatterplots.
     
-    • Churn vs Geography, Churn vs Gender.
+   • Churn vs Geography, Churn vs Gender.
     
-    • Distribution of Salaries, Age, and Balances.
+   • Distribution of Salaries, Age, and Balances.
 
 🔥 **Key Takeaways**
 
-  • PySpark can easily handle large datasets and perform complex operations efficiently.
+ • PySpark can easily handle large datasets and perform complex operations efficiently.
     
-  • Found that certain geographies and genders had higher churn rates.
+ • Found that certain geographies and genders had higher churn rates.
     
-  • Identified high-value customers who were more likely to churn, providing insights for retention strategies.
+ • Identified high-value customers who were more likely to churn, providing insights for retention strategies.
     
-  • Created easy-to-understand visualizations to support the derived insights.
+ • Created easy-to-understand visualizations to support the derived insights.
