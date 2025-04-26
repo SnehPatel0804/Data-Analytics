@@ -18,7 +18,7 @@ The main goal was to derive meaningful insights from the dataset, analyze custom
 📈**Steps and Work Done**
    **Data Loading**
   
-  Loaded a large CSV file into PySpark DataFrame with automatic schema inference.
+   • Loaded a large CSV file into PySpark DataFrame with automatic schema inference.
 
    **Data Exploration**
   
